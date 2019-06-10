@@ -1,0 +1,115 @@
+[INFO  - 2019-06-10T16:11:44.253Z] GhostDriver - Main - running on port 49893
+[INFO  - 2019-06-10T16:11:46.391Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-06-10T16:11:46.391Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.customHeaders:  - {}
+[INFO  - 2019-06-10T16:11:46.391Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-06-10T16:11:46.391Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 71e9c140-8b9a-11e9-8bdd-53d487497eb6
+[ERROR - 2019-06-10T16:11:53.000Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Math.log1p(max)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:11:53.000Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - stack:
+  capturegraph_scale_is_required (http://web.archive.org/_static/js/graph-calc.js:39)
+  capturegraph_scale (http://web.archive.org/_static/js/graph-calc.js:50)
+  sparkline (http://web.archive.org/_static/js/graph-calc.js:74)
+  (anonymous function) (http://web.archive.org/_static/js/toolbar.js:203)
+  onreadystatechange (http://web.archive.org/_static/js/toolbar.js:20)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:05.096Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Math.log1p(max)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:05.096Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - stack:
+  capturegraph_scale_is_required (http://web.archive.org/_static/js/graph-calc.js:39)
+  capturegraph_scale (http://web.archive.org/_static/js/graph-calc.js:50)
+  sparkline (http://web.archive.org/_static/js/graph-calc.js:74)
+  (anonymous function) (http://web.archive.org/_static/js/toolbar.js:203)
+  onreadystatechange (http://web.archive.org/_static/js/toolbar.js:20)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:16.924Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Math.log1p(max)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:16.924Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - stack:
+  capturegraph_scale_is_required (http://web.archive.org/_static/js/graph-calc.js:39)
+  capturegraph_scale (http://web.archive.org/_static/js/graph-calc.js:50)
+  sparkline (http://web.archive.org/_static/js/graph-calc.js:74)
+  (anonymous function) (http://web.archive.org/_static/js/toolbar.js:203)
+  onreadystatechange (http://web.archive.org/_static/js/toolbar.js:20)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:22.495Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Math.log1p(max)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:22.496Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - stack:
+  capturegraph_scale_is_required (http://web.archive.org/_static/js/graph-calc.js:39)
+  capturegraph_scale (http://web.archive.org/_static/js/graph-calc.js:50)
+  sparkline (http://web.archive.org/_static/js/graph-calc.js:74)
+  (anonymous function) (http://web.archive.org/_static/js/toolbar.js:203)
+  onreadystatechange (http://web.archive.org/_static/js/toolbar.js:20)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:29.121Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Math.log1p(max)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:29.121Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - stack:
+  capturegraph_scale_is_required (http://web.archive.org/_static/js/graph-calc.js:39)
+  capturegraph_scale (http://web.archive.org/_static/js/graph-calc.js:50)
+  sparkline (http://web.archive.org/_static/js/graph-calc.js:74)
+  (anonymous function) (http://web.archive.org/_static/js/toolbar.js:203)
+  onreadystatechange (http://web.archive.org/_static/js/toolbar.js:20)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:32.320Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Math.log1p(max)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:32.320Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - stack:
+  capturegraph_scale_is_required (http://web.archive.org/_static/js/graph-calc.js:39)
+  capturegraph_scale (http://web.archive.org/_static/js/graph-calc.js:50)
+  sparkline (http://web.archive.org/_static/js/graph-calc.js:74)
+  (anonymous function) (http://web.archive.org/_static/js/toolbar.js:203)
+  onreadystatechange (http://web.archive.org/_static/js/toolbar.js:20)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:37.090Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Math.log1p(max)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:37.090Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - stack:
+  capturegraph_scale_is_required (http://web.archive.org/_static/js/graph-calc.js:39)
+  capturegraph_scale (http://web.archive.org/_static/js/graph-calc.js:50)
+  sparkline (http://web.archive.org/_static/js/graph-calc.js:74)
+  (anonymous function) (http://web.archive.org/_static/js/toolbar.js:203)
+  onreadystatechange (http://web.archive.org/_static/js/toolbar.js:20)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:41.536Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Math.log1p(max)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:41.536Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - stack:
+  capturegraph_scale_is_required (http://web.archive.org/_static/js/graph-calc.js:39)
+  capturegraph_scale (http://web.archive.org/_static/js/graph-calc.js:50)
+  sparkline (http://web.archive.org/_static/js/graph-calc.js:74)
+  (anonymous function) (http://web.archive.org/_static/js/toolbar.js:203)
+  onreadystatechange (http://web.archive.org/_static/js/toolbar.js:20)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:48.879Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Math.log1p(max)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:48.879Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - stack:
+  capturegraph_scale_is_required (http://web.archive.org/_static/js/graph-calc.js:39)
+  capturegraph_scale (http://web.archive.org/_static/js/graph-calc.js:50)
+  sparkline (http://web.archive.org/_static/js/graph-calc.js:74)
+  (anonymous function) (http://web.archive.org/_static/js/toolbar.js:203)
+  onreadystatechange (http://web.archive.org/_static/js/toolbar.js:20)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:54.717Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Math.log1p(max)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-10T16:12:54.717Z] Session [71e9c140-8b9a-11e9-8bdd-53d487497eb6] - page.onError - stack:
+  capturegraph_scale_is_required (http://web.archive.org/_static/js/graph-calc.js:39)
+  capturegraph_scale (http://web.archive.org/_static/js/graph-calc.js:50)
+  sparkline (http://web.archive.org/_static/js/graph-calc.js:74)
+  (anonymous function) (http://web.archive.org/_static/js/toolbar.js:203)
+  onreadystatechange (http://web.archive.org/_static/js/toolbar.js:20)
+
+  phantomjs://platform/console++.js:263 in error
