@@ -1,0 +1,990 @@
+    1  clear
+    2  ptree | grep g_singh
+    3  ps -A
+    4  ls -l ~/tes
+    5  ls -l ~/test/screenshots/
+    6  ptree | grep g_singh
+    7  exit
+    8  ptree | grep g_singh
+    9  exit
+   10  ptree | grep g_singh
+   11  exit
+   12  ptree | grep g_singh
+   13  free
+   14  exit
+   15  ptree | grep g_singh
+   16  exit
+   17  ptree | grep g_singh
+   18  free
+   19  exit
+   20  ptree | grep g_singh
+   21  exit
+   22  ptree | grep g_singh
+   23  cd test/
+   24  ls -l
+   25  ptree | grep g_singh
+   26  free
+   27  exit
+   28  ptree | grep g_singh
+   29  free
+   30  ps
+   31  ps -A
+   32  ls
+   33  ptree | grep g_singh
+   34  clear
+   35  ptree | grep g_singh
+   36  ps -A
+   37  kill -9 17333
+   38  ptree | grep g_singh
+   39  clear
+   40  ptree | grep g_singh
+   41  exit
+   42  ptree | grep g_singh
+   43  free
+   44  ptree | grep g_singh
+   45  exit
+   46  ptree | grep g_singh
+   47  clear
+   48  ptree | grep g_singh
+   49  exit
+   50  cd test
+   51  ls
+   52  rm  outputsplit*
+   53  ls
+   54  rm file*
+   55  ls
+   56  rm -r ~/test/screenshots/
+   57  clear
+   58  ptree | grep g_singh
+   59  parallel < gnu.txt &
+   60  ptree | grep g_singh
+   61  clear
+   62  ptree | grep g_singh
+   63  source ~/venv/bin/activate
+   64  parallel < gnu.txt &
+   65  ptree | grep g_singh
+   66  clear
+   67  ptree | grep g_singh
+   68  ps -A
+   69  kill -9 5271
+   70  kill -9 5272
+   71  kill -9 5273
+   72  kill -9 5274
+   73  ps -A
+   74  ptree | grep g_singh
+   75  clear
+   76  ptree | grep g_singh
+   77  clear
+   78  ps -A
+   79  clear
+   80  ptree | grep g_singh
+   81  exit
+   82  ptree | grep g_singh
+   83  clear
+   84  ps -A
+   85  kill -9 5484
+   86  clear
+   87  kill -9 5484
+   88  ps -A
+   89  clear
+   90  ps -A
+   91  clear
+   92  ptree | grep g_singh
+   93  clear
+   94  ps -A
+   95  kill -9 5384
+   96  clear
+   97  ps -A
+   98  kill -9 5410
+   99  clear
+  100  ps -A
+  101  kill -9 5432
+  102  clear
+  103  ps -A
+  104  ptree | grep g_singh
+  105  rm -r ~/test/screenshots/
+  106  ls
+  107  ptree | grep g_singh
+  108  exit
+  109  rm outputsplit*
+  110  cd test/
+  111  rm outputsplit*
+  112  rm file*
+  113  ls
+  114  source ~/venv/bin/activate
+  115  parallel -j 8 < gnu.txt &
+  116  clear
+  117  ptree | grep g_singh
+  118  ps -A
+  119  free
+  120  clear
+  121  ps -A
+  122  kill -9 5749
+  123  kill -9 5750
+  124  clear
+  125  ps -A
+  126  kill -9 5751
+  127  pkill
+  128  pkill --help
+  129  pkill -U g_singh
+  130  ps -A
+  131  ptree | grep g_singh
+  132  rm -r ~/test/screenshots/ &
+  133  rm file*
+  134  cd test
+  135  rm file*
+  136  rm outputsplit*
+  137  ls
+  138  source ~/venv/bin/activate
+  139  parallel < gnu.txt &
+  140  clear
+  141  ptree | grep g_singh
+  142  ps -A
+  143  ptree | grep g_singh
+  144  clear
+  145  pkill -U g_singh
+  146  ps -A
+  147  ptree | grep g_singh
+  148  rm -r ~/test/screenshots/ &
+  149  rm file*
+  150  cd test
+  151  rm file*
+  152  ls
+  153  ptree | grep g_singh
+  154  source ~/venv/bin/activate
+  155  parallel < gnu.txt &
+  156  clear
+  157  ptree | grep g_singh
+  158  exit
+  159  ps -A
+  160  pkill -U g_singh
+  161  ps -A
+  162  rm file*
+  163  cd test
+  164  rm file*
+  165  rm -r ~/test/screenshots/ &
+  166  ls
+  167  parallel < gnu.txt &
+  168  clear
+  169  ptree | grep g_singh
+  170  source ~/venv/bin/activate
+  171  parallel < gnu.txt &
+  172  clear
+  173  ptree | grep g_singh
+  174  exit
+  175  ptree | grep g_singh
+  176  exit
+  177  ptree | grep g_singh
+  178  pkill -U g_singh
+  179  rm -r ~/test/screenshots/ &
+  180  parallel < gnu.txt &
+  181  cd tes
+  182  cd test
+  183  parallel < gnu.txt &
+  184  clear
+  185  ptree | grep g_singh
+  186  pkill -U g_singh
+  187  ptree | grep g_singh
+  188  clear
+  189  ptree | grep g_singh
+  190  parallel < gnu.txt &
+  191  ptree | grep g_singh
+  192  source ~/venv/bin/activate
+  193  parallel < gnu.txt &
+  194  cd test
+  195  cd tes
+  196  cd test
+  197  ls
+  198  ptree | grep g_singh
+  199  parallel < gnu.txt &
+  200  ptree | grep g_singh
+  201  cd ..
+  202  ls
+  203  clear
+  204  ptree | grep g_singh
+  205  exit
+  206  ptree | grep g_singh
+  207  pkill -U g_singh
+  208  ptree | grep g_singh
+  209  rm -r ~/test/screenshots/ &
+  210  source ~/venv/bin/activate
+  211  cd test/
+  212  parallel < gnu.txt &
+  213  ptree | grep g_singh
+  214  pkill -U g_singh
+  215  rm -r ~/test/screenshots/ &
+  216  exit
+  217  source ~/venv/bin/activate
+  218  parallel < gnu.txt &
+  219  cd test/
+  220  parallel < gnu.txt &
+  221  clear
+  222  ptree | grep g_singh
+  223  exit
+  224  pkill -U g_singh
+  225  rm -r ~/test/screenshots/ &
+  226  source ~/venv/bin/activate
+  227  parallel < gnu.txt &
+  228  cd test/
+  229  parallel < gnu.txt &
+  230  exit
+  231  ptree | grep g_singh
+  232  exit
+  233  source ~/venv/bin/activate
+  234  pip install requests
+  235  rm -r ~/test/screenshots/ &
+  236  parallel < gnu.txt &
+  237  cd test
+  238  parallel < gnu.txt &
+  239  clear
+  240  ptree | grep g_singh
+  241  pkill -U g_singh
+  242  rm -r ~/test/screenshots/ &
+  243  ptree | grep g_singh
+  244  parallel < gnu.txt &
+  245  source ~/venv/bin/activate
+  246  cd test/
+  247  parallel < gnu.txt &
+  248  ptree | grep g_singh
+  249  exit
+  250  ptree | grep g_singh
+  251  exit
+  252  ptree | grep g_singh
+  253  clear
+  254  ptree | grep g_singh
+  255  exit
+  256  ptree | grep g_singh
+  257  exit
+  258  ptree | grep g_singh
+  259  pkill -U g_singh
+  260  rm -r ~/test/screenshots/ &
+  261  exit
+  262  source ~/venv/bin/activate
+  263  parallel < gnu.txt &
+  264  cd test
+  265  parallel < gnu.txt &
+  266  clear
+  267  ptree | grep g_singh
+  268  clear
+  269  ptree | grep g_singh
+  270  clear
+  271  ptree | grep g_singh
+  272  clear
+  273  ptree | grep g_singh
+  274  exit
+  275  ptree | grep g_singh
+  276  free
+  277  exit
+  278  ptree | grep g_singh
+  279  exit
+  280  ptree | grep g_singh
+  281  exit
+  282  ptree | grep g_singh
+  283  exit
+  284  ptree | grep g_singh
+  285  exit
+  286  ptree | grep g_singh
+  287  source ~/venv/bin/activate
+  288  parallel < gnu.txt &
+  289  cd test/
+  290  parallel < gnu.txt &
+  291  clear
+  292  ptree | grep g_singh
+  293  exit
+  294  ptree | grep g_singh
+  295  clear
+  296  exit
+  297  ptree | grep g_singh
+  298  exit
+  299  ptree | grep g_singh
+  300  exit
+  301  ptree | grep g_singh
+  302  exit
+  303  ptree | grep g_singh
+  304  clear
+  305  ptree | grep g_singh
+  306  free
+  307  pkill -U g_singh
+  308  rm -r ~/test/screenshots/ &
+  309  source ~/venv/bin/activate
+  310  cd test/
+  311  parallel < gnu.txt &
+  312  clear
+  313  ptree | grep g_singh
+  314  exit
+  315  ptree | grep g_singh
+  316  find /home/g_singh/test/screenshots/ -type f | ec -l
+  317  find /home/g_singh/test/screenshots/ -type f | wc -l
+  318  clear
+  319  find /home/g_singh/test/screenshots/ -type f | wc -l
+  320  clear
+  321  find /home/g_singh/test/screenshots/ -type f | wc -l
+  322  exit
+  323  find /home/g_singh/test/screenshots/ -type f | wc -l
+  324  exit
+  325  find /home/g_singh/test/screenshots/ -type f | wc -l
+  326  ptree | grep g_singh
+  327  EXIT
+  328  exit
+  329  find /home/g_singh/test/screenshots/ -type f | wc -l
+  330  clear
+  331  clear
+  332  find /home/g_singh/test/screenshots/ -type f | wc -l
+  333  clear
+  334  find /home/g_singh/test/screenshots/ -type f | wc -l
+  335  clear
+  336  find /home/g_singh/test/screenshots/ -type f | wc -l
+  337  ptree | grep g_singh
+  338  clear
+  339  find /home/g_singh/test/screenshots/ -type f | wc -l
+  340  free
+  341  find /home/g_singh/test/screenshots/ -type f | wc -l
+  342  pkill -U g_singh
+  343  find /home/g_singh/test/screenshots/ -type f | wc -l
+  344  CLEAR
+  345  clear
+  346  find /home/g_singh/test/screenshots/ -type f | wc -l
+  347  pkill -U g_singh
+  348  rm -r ~/test/screenshots/ &
+  349  source ~/venv/bin/activate
+  350  cd test/
+  351  python Screenshot_optimized_v3.py sample2.csv
+  352  pkill -U g_singh
+  353  source ~/venv/bin/activate
+  354  cd test/
+  355  python Screenshot_optimized_v3.pypy sample2.csv
+  356  python Screenshot_optimized_v3.py sample2.csv
+  357  rm -r ~/test/screenshots/ &
+  358  source ~/venv/bin/activate
+  359  cd test/
+  360  python Screenshot_optimized_v3.py sample2.csv
+  361  clear
+  362  python Screenshot_optimized_v3.py sample3.csv
+  363  find /home/g_singh/test/screenshots/ -type f | wc -l
+  364  clear
+  365  find /home/g_singh/test/screenshots/ -type f | wc -l
+  366  exit
+  367  find /home/g_singh/test/screenshots/ -type f | wc -l
+  368  exit
+  369  ptree | grep g_singh
+  370  rm -r ~/test/screenshots/ &
+  371  source ~/venv/bin/activate
+  372  cd test/
+  373  parallel < gnu.txt &
+  374  clear
+  375  find /home/g_singh/test/screenshots/ -type f | ec -l
+  376  find /home/g_singh/test/screenshots/ -type f | wc -l
+  377  clear
+  378  find /home/g_singh/test/screenshots/ -type f | wc -l
+  379  exit
+  380  cd test
+  381  find /home/g_singh/test/screenshots/ -type f | ec -l
+  382  ptree | grep g_singh
+  383  clear
+  384  source ~/venv/bin/activate
+  385  cd test
+  386  pwd
+  387  parallel < gnu.txt &
+  388  ptree | grep g_singh
+  389  find /home/g_singh/test/screenshots/ -type f | ec -l
+  390  ptree | grep g_singh
+  391  rm -r ~/test/screenshots/ &
+  392  source ~/venv/bin/activate
+  393  cd test/
+  394  parallel < gnu.txt &
+  395  ptree | grep g_singh
+  396  pkill -U g_singh
+  397  rm -r ~/test/screenshots/ &
+  398  source ~/venv/bin/activate
+  399  cd test/
+  400  parallel < gnu.txt &
+  401  clear
+  402  ptree | grep g_singh
+  403  clear
+  404  ptree | grep g_singh
+  405  pkill -U g_singh
+  406  rm -r ~/test/screenshots/ &
+  407  source ~/venv/bin/activate
+  408  cd test/
+  409  python url_status_code.py &> sample3_mc.log &
+  410  ptree | grep g_singh
+  411  ps -A
+  412  clear
+  413  ptree | grep g_singh
+  414  ps -A
+  415  exit
+  416  ps -A
+  417  source ~/venv/bin/activate
+  418  cd test/
+  419  python url_status_code.py &> sample_4_120.log &
+  420  clear
+  421  ps -A
+  422  clear
+  423  ps -A
+  424  clear
+  425  ps -A
+  426  clear
+  427  ps -A
+  428  clear
+  429  ps -A
+  430  clear
+  431  ps -A
+  432  clear
+  433  ps -A
+  434  clear
+  435  ps -A
+  436  ptree | grep g_singh
+  437  clear
+  438  ptree | grep g_singh
+  439  clear
+  440  ps -A
+  441  parallel < gnu.txt &
+  442  cler
+  443  clear
+  444  ptree | grep g_singh
+  445  clear
+  446  ptree | grep g_singh
+  447  exit
+  448  ptree | grep g_singh
+  449  exit
+  450  ptree | grep g_singh
+  451  find /home/g_singh/test/screenshots/ -type f | wc -l
+  452  clear
+  453  find /home/g_singh/test/screenshots/ -type f | wc -l
+  454  clear
+  455  exit
+  456  find /home/g_singh/test/screenshots/ -type f | wc -l
+  457  ptree | grep g_singh
+  458  rm -r ~/test/screenshots/ &
+  459  source ~/venv/bin/activate
+  460  cd test/
+  461  clear
+  462  ptree | grep g_singh
+  463  parallel < gnu.txt &
+  464  clear
+  465  ptree | grep g_singh
+  466  clear
+  467  find /home/g_singh/test/screenshots/ -type f | wc -l
+  468  clear
+  469  exit
+  470  ptree | grep g_singh
+  471  source ~/venv/bin/activate
+  472  cd test/
+  473  parallel < gnu.txt &
+  474  clear
+  475  ptree | grep g_singh
+  476  find /home/g_singh/test/screenshots/ -type f | wc -l
+  477  exit
+  478  find /home/g_singh/test/screenshots/ -type f | wc -l
+  479  ptree | grep g_singh
+  480  pkill -U g_singh
+  481  rm -r ~/test/screenshots/ &
+  482  source ~/venv/bin/activate
+  483  cd test/
+  484  parallel < gnu.txt &
+  485  clear
+  486  ptree | grep g_singh
+  487  exit
+  488  ptree | grep g_singh
+  489  find /home/g_singh/test/screenshots/ -type f | wc -l
+  490  exit
+  491  ptree | grep g_singh
+  492  rm -r ~/test/screenshots/ &
+  493  source ~/venv/bin/activate
+  494  parallel < gnu.txt &
+  495  cd test/
+  496  parallel < gnu.txt &
+  497  clear
+  498  ptree | grep g_singh
+  499  rm -r ~/test/screenshots/ &
+  500  ptree | grep g_singh
+  501  rm -r *_30.csv &
+  502  rm -r *_30.log &
+  503  rm -r ~/test/screenshots/ &
+  504  parallel < gnu.txt &
+  505  ptree | grep g_singh
+  506  clear
+  507  ptree | grep g_singh
+  508  clear
+  509  exit
+  510  ptree | grep g_singh
+  511  pkill -U g_singh
+  512  parallel < gnu.txt &
+  513  source ~/venv/bin/activate
+  514  cd test/
+  515  parallel < gnu.txt &
+  516  clear
+  517  ptree | grep g_singh
+  518  exit
+  519  ptree | grep g_singh
+  520  pkill -U g_singh
+  521  rm -r ~/test/screenshots/ &
+  522  source ~/venv/bin/activate
+  523  cd test/
+  524  parallel < gnu.txt &
+  525  clear
+  526  ptree | grep g_singh
+  527  exit
+  528  ptree | grep g_singh
+  529  find /home/g_singh/test/screenshots/ -type f | wc -l
+  530  free
+  531  find /home/g_singh/test/screenshots/ -type f | wc -l
+  532  ps -A
+  533  find /home/g_singh/test/screenshots/ -type f | wc -l
+  534  pkill -U g_singh
+  535  rm -r ~/test/screenshots/ &
+  536  source ~/venv/bin/activate
+  537  cd test/
+  538  parallel < gnu.txt &
+  539  clear
+  540  ptree | grep g_singh
+  541  find /home/g_singh/test/screenshots/ -type f | wc -l
+  542  exit
+  543  find /home/g_singh/test/screenshots/ -type f | wc -l
+  544  ptree | grep g_singh
+  545  exit
+  546  ptree | grep g_singh
+  547  find /home/g_singh/test/screenshots/ -type f | wc -l
+  548  exit
+  549  ptree | grep g_singh
+  550  pkill -U g_singh
+  551  source ~/venv/bin/activate
+  552  cd test
+  553  python Screenshot_optimized_v3.py sample_3_30.csv
+  554  rm -r ~/test/screenshots/ &
+  555  cd test/
+  556  rm *30.log
+  557  python Screenshot_optimized_v3.py sample_4_30.csv
+  558  source ~/venv/bin/activate
+  559  python Screenshot_optimized_v3.py sample_4_30.csv
+  560  ptree | grep g_singh
+  561  rm -r ~/test/screenshots/ &
+  562  cd test
+  563  source ~/venv/bin/activate
+  564  clear
+  565  ptree | grep g_singh
+  566  rm *30.log
+  567  parallel < gnu.txt &
+  568  clear
+  569  ptree | grep g_singh
+  570  clear
+  571  exit
+  572  ptree | grep g_singh
+  573  pkill -U g_singh
+  574  ptree | grep g_singh
+  575  source ~/venv/bin/activate
+  576  cd test/
+  577  parallel < gnu.txt &
+  578  clear
+  579  ptree | grep g_singh
+  580  exit
+  581  ptree | grep g_singh
+  582  exit
+  583  rm -r ~/test/screenshots/ &
+  584  rm *30.log
+  585  cd test/
+  586  rm *30.log
+  587  ptree | grep g_singh
+  588  exit
+  589  find /home/g_singh/test/screenshots/ -type f | wc -l
+  590  ptree | grep g_singh
+  591  exit
+  592  ptree | grep g_singh
+  593  find /home/g_singh/test/screenshots/ -type f | wc -l
+  594  exit
+  595  ptree | grep g_singh
+  596  find /home/g_singh/test/screenshots/ -type f | wc -l
+  597  ptree | grep g_singh
+  598  clear
+  599  ptree | grep g_singh
+  600  exit
+  601  ptree | grep g_singh
+  602  pkill -U g_singh
+  603  exit
+  604  ptree | grep g_singh
+  605  source ~/venv/bin/activate
+  606  cd test/
+  607  python Screenshot_optimized_v3.py sample_2_30.csv &> file_2_30.log
+  608  exit
+  609  source ~/venv/bin/activate
+  610  python Screenshot_optimized_v3.py sample_2_30.csv
+  611  cd test/
+  612  python Screenshot_optimized_v3.py sample_2_30.csv
+  613  find /home/g_singh/test/screenshots/ -type f | wc -l
+  614  rm -r ~/test/screenshots/ &
+  615  rm *30.log
+  616  cd test/
+  617  rm *30.log
+  618  parallel < gnu.txt &
+  619  clear
+  620  ptree | grep g_singh
+  621  rm *30.log
+  622  source ~/venv/bin/activate
+  623  parallel < gnu.txt &
+  624  clear
+  625  ptree | grep g_singh
+  626  exit
+  627  ptree | grep g_singh
+  628  find /home/g_singh/test/screenshots/ -type f | wc -l
+  629  clear
+  630  find /home/g_singh/test/screenshots/ -type f | wc -l
+  631  exit
+  632  find /home/g_singh/test/screenshots/ -type f | wc -l
+  633  ptree | grep g_singh
+  634  exit
+  635  ptree | grep g_singh
+  636  find /home/g_singh/test/screenshots/ -type f | wc -l
+  637  find /home/g_singh/test/screenshots/ -type f | wc -lexit
+  638  exit
+  639  ptree | grep g_singh
+  640  find /home/g_singh/test/screenshots/ -type f | wc -lexit
+  641  find /home/g_singh/test/screenshots/ -type f | wc -l
+  642  find /home/g_singh/test/screenshots/ -type f | wc -
+  643  find /home/g_singh/test/screenshots/ -type f | wc -L
+  644  find /home/g_singh/test/screenshots/ -type f | wc -l
+  645  exit\
+  646  exit
+  647  find /home/g_singh/test/screenshots/ -type f | wc -l
+  648  ptree | grep g_singh
+  649  exit
+  650  ptree | grep g_singh
+  651  wxit
+  652  exit
+  653  ptree | grep g_singh
+  654  exit
+  655  ptree | grep g_singh
+  656  source ~/venv/bin/activate
+  657  cd tes
+  658  cd test/
+  659  parallel < gnu.txt &
+  660  clear
+  661  ptree | grep g_singh
+  662  exit
+  663  ptree | grep g_singh
+  664  clear
+  665  ptree | grep g_singh
+  666  clear
+  667  exit
+  668  ptree | grep g_singh
+  669  rm *120.log
+  670  cd test/
+  671  rm *120.log
+  672  ps -A
+  673  ps -A | grep phantom
+  674  ps -A | grep 
+  675  parallel -j 5  < gnu.txt &
+  676  clear
+  677  ptree | grep g_singh
+  678  rm *120.log
+  679  source ~/venv/bin/activate
+  680  cd te
+  681  cd test
+  682  parallel -j 5  < gnu.txt &
+  683  clear
+  684  ptree | grep g_singh
+  685  pkill -U g_singh
+  686  rm -r ~/test/screenshots/ &
+  687  clear
+  688  rm *120.log
+  689  cd test/
+  690  rm *120.log
+  691  source ~/venv/bin/activate
+  692  parallel -j 5  < gnu.txt &
+  693  clear
+  694  ptree | grep g_singh
+  695  exit
+  696  ptree | grep g_singh
+  697  exit
+  698  ptree | grep g_singh
+  699  find /home/g_singh/test/screenshots/ -type f | wc -l
+  700  exit
+  701  find /home/g_singh/test/screenshots/ -type f | wc -l
+  702  ptree | grep g_singh
+  703  exit
+  704  ptree | grep g_singh
+  705  find /home/g_singh/test/screenshots/ -type f | wc -l
+  706  EXIT
+  707  exit
+  708  ptree | grep g_singh
+  709  clear
+  710  find /home/g_singh/test/screenshots/ -type f | wc -l
+  711  clear
+  712  exit
+  713  ptree | grep g_singh
+  714  find /home/g_singh/test/screenshots/ -type f | wc -l
+  715  ptree | grep g_singh
+  716  find /home/g_singh/test/screenshots/ -type f | wc -l
+  717  clear
+  718  find /home/g_singh/test/screenshots/ -type f | wc -l
+  719  clear
+  720  find /home/g_singh/test/screenshots/ -type f | wc -l
+  721  clear
+  722  exit
+  723  ptree | grep g_singh
+  724  find /home/g_singh/test/screenshots/ -type f | wc -l
+  725  clear
+  726  find /home/g_singh/test/screenshots/ -type f | wc -l
+  727  ptree | grep g_singh
+  728  rm *30.log
+  729  cd test/
+  730  rm *30.log
+  731  rm -r ~/test/screenshots/ &
+  732  clear
+  733  source ~/venv/bin/activate
+  734  parallel -j 5  < gnu.txt &
+  735  clear
+  736  ptree | grep g_singh
+  737  clear
+  738  ptree | grep g_singh
+  739  exit
+  740  ptree | grep g_singh
+  741  exit
+  742  ptree | grep g_singh
+  743  find /home/g_singh/test/screenshots/ -type f | wc -l
+  744  clear
+  745  exit
+  746  ptree | grep g_singh
+  747  find /home/g_singh/test/screenshots/ -type f | wc -l
+  748  exit
+  749  find /home/g_singh/test/screenshots/ -type f | wc -l
+  750  ptree | grep g_singh
+  751  rm *10.log
+  752  cd test/
+  753  rm *10.log
+  754  rm -r ~/test/screenshots/ &
+  755  clear
+  756  ptree | grep g_singh
+  757  source ~/venv/bin/activate
+  758  parallel -j 5  < gnu.txt &
+  759  pkill -U g_singh
+  760  rm -r ~/test/screenshots/ &
+  761  rm *10.log
+  762  cd test/
+  763  rm *10.log
+  764  source ~/venv/bin/activate
+  765  parallel -j 5 < gnu.txt &
+  766  clear
+  767  ptree | grep g_singh
+  768  clear
+  769  ptree | grep g_singh
+  770  ps -A | grep phantom*
+  771  exit
+  772  ps -A | grep phantom*
+  773  ptree | grep g_singh
+  774  ps -A | grep phantom*
+  775  ps -A
+  776  ptree | grep g_singh
+  777  exit
+  778  ptree | grep g_singh
+  779  exit
+  780  ptree | grep g_singh
+  781  cd test/
+  782  rm file*.log
+  783  rm *30.csv
+  784  rm -r ~/test/screenshots/ &
+  785  exit
+  786  source ~/venv/bin/activate
+  787  cd test/
+  788  python url_status_code.py &> url_status.log &
+  789  clear
+  790  ptree | grep g_singh
+  791  ps -A
+  792  ptree | grep g_singh
+  793  exit
+  794  ptree | grep g_singh
+  795  sp -A
+  796  ps -A
+  797  exit
+  798  ptree | grep g_singh
+  799  exit
+  800  ptree | grep g_singh
+  801  clear
+  802  ptree | grep g_singh
+  803  exit
+  804  ptree | grep g_singh
+  805  clear
+  806  ptree | grep g_singh
+  807  source ~/venv/bin/activate
+  808  cd test/
+  809  parallel -j 5 < gnu.txt &
+  810  clear
+  811  ptree | grep g_singh
+  812  exit
+  813  ptree | grep g_singh
+  814  find /home/g_singh/test/screenshots/ -type f | wc -l
+  815  exit
+  816  ptree | grep g_singh
+  817  clear
+  818  ptree | grep g_singh
+  819  pkill -U g_singh
+  820  rm -r ~/test/screenshots/ &
+  821  rm file*.log
+  822  cd test/
+  823  rm file*.log
+  824  source ~/venv/bin/activate
+  825  parallel -j 5 < gnu.txt &
+  826  clear
+  827  ptree | grep g_singh
+  828  exit
+  829  ptree | grep g_singh
+  830  pkill -U g_singh
+  831  rm file*.log
+  832  cd test/
+  833  rm file*.log
+  834  rm -r ~/test/screenshots/ &
+  835  parallel < gnu.txt &
+  836  clear
+  837  ptree | grep g_singh
+  838  rm file*.log
+  839  source ~/venv/bin/activate
+  840  parallel < gnu.txt &
+  841  clear
+  842  ptree | grep g_singh
+  843  exit
+  844  ptree | grep g_singh
+  845  find /home/g_singh/test/screenshots/ -type f | wc -l
+  846  pkill -U g_singh
+  847  ps -A
+  848  ptree | grep g_singh
+  849  rm file*.log
+  850  cd test/
+  851  rm file*.log
+  852  source ~/venv/bin/activate
+  853  parallel -j 5 < gnu.txt &
+  854  clear
+  855  ptree | grep g_singh
+  856  exit
+  857  ptree | grep g_singh
+  858  rm file*.log
+  859  cd test/
+  860  rm file*.log
+  861  parallel < gnu.txt &
+  862  rm file*.log
+  863  clear
+  864  ptree | grep g_singh
+  865  source ~/venv/bin/activate
+  866  parallel < gnu.txt &
+  867  clear
+  868  ptree | grep g_singh
+  869  exit
+  870  ptree | grep g_singh
+  871  exit
+  872  ptree | grep g_singh
+  873  exit
+  874  rm file*.log
+  875  cd test/
+  876  rm file*.log
+  877  source ~/venv/bin/activate
+  878  cd test/
+  879  parallel < gnu.txt &
+  880  clear
+  881  ptree | grep g_singh
+  882  exit
+  883  ptree | grep g_singh
+  884  clear
+  885  ptree | grep g_singh
+  886  clear
+  887  ptree | grep g_singh
+  888  clear
+  889  ptree | grep g_singh
+  890  ls -al test/
+  891  ls -al test
+  892  ls -al 
+  893  mkdir aaa
+  894  ls -al 
+  895  env
+  896  ls -al 
+  897  mc
+  898  ls -al 
+  899  ls -al 
+  900  sudo su -
+  901  sudo su - daksh
+  902  sudo su -
+  903  pkill -u g_singh
+  904  ifconfig
+  905  man ifconfig
+  906  sudo su -
+  907  history
+  908  iftop
+  909  sudo iftop
+  910  sudo yum install bmon
+  911  sudo bmon
+  912  ifconfig
+  913  sudo su -
+  914  mc
+  915  ls -al
+  916  sudo yum install feh
+  917  sudo yum install imagemagick
+  918  sudo yum install ImageMagick
+  919  ls
+  920  display 00.com2014-04-04.png 
+  921  sudo yum install x2goserver
+  922  sudo yum install x2goserver-xsession
+  923  sudo su -
+  924  ls -al ~/.ssh/
+  925  sudo su - daksh
+  926  cd
+  927  mc
+  928  sudo su -
+  929  mc
+  930  exit
+  931  source ~/venv/bin/activate
+  932  cd test/
+  933  history
+  934  sudo ifconfig
+  935  python demo_Script.py sample0_new.csv 
+  936  pkill -u g_singh
+  937  source ~/venv/bin/activate
+  938  cd test/
+  939  python demo_Script.py sample0_new.csv &> demoscript.log
+  940  ls -al
+  941  python demo_Script.py sample0_new.csv &> demoscript.log
+  942  ptree | grep g_singh
+  943  python demo_Script.py sample0_new.csv
+  944  ptree | grep g_singh
+  945  python demo_Script.py sample0_new.csv
+  946  cd test/
+  947  source ~/venv/bin/activate
+  948  python demo_Script.py sample0_new.csv
+  949  pkill -u g_singh
+  950  cd test/
+  951  source ~/venv/bin/activate
+  952  python Screenshot_optimized_v3.py sample0_new.csv 
+  953  source ~/venv/bin/activate
+  954  cd test/
+  955  python Screenshot_optimized_v3.py sample0_new.csv 
+  956  pkill -u g_singh
+  957  ptree | grep g_singh
+  958  source ~/venv/bin/activate
+  959  cd test/
+  960  python Screenshot_optimized_v3.py sample0_new.csv 
+  961  free
+  962  ps -A
+  963  source ~/venv/bin/activate
+  964  which python
+  965  python -v
+  966  python -V
+  967  deactivate 
+  968  python -V
+  969  mc
+  970  source ~/venv/bin/activate
+  971  pip list
+  972  which pip[
+  973  which pip
+  974  pip list
+  975  mc
+  976  python Screenshot_optimized_v3.py 
+  977  mc
+  978  source ~/venv/bin/activate
+  979  mc
+  980  python screenshotstimed_3/
+  981  python demo_Script.py 
+  982  mc
+  983  python Screenshot_optimized_v3.py sample0_new.csv 
+  984  source ~/venv/bin/activate
+  985  cd test/
+  986  python Screenshot_optimized_v3.py sample0_new.csv 
+  987  pkill -u g_singh
+  988  exit
+  989  history > ~/home/g_singh/commmads.txt
+  990  history > commmads.txt

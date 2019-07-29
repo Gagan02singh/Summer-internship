@@ -1,0 +1,13 @@
+duplicate company - id 97 and 4980
+136 and 5771
+66 and 3589
+220 and 8829
+18 and 1114
+215 and 8471
+124 and 5313
+
+Things to prepare batches-:-
+Get the ids according to the requirements
+replace / with _ in company names
+split the file into required parts 
+get the new urls

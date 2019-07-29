@@ -1,0 +1,40 @@
+﻿initial - 
+rx initial = 422378496
+
+3 scripts for 1 hour
+processed = 200 + 222 +198 = 620
+success - 197 + 219 + 195 = 611
+timeouts - 1 +3 + 3 = 7
+
+rx ending = 1121964779
+
+Difference = ‭699586283‬
+bytes per sec = ‭194,329.52
+
+
+5 scripts for 1 hour
+
+rx initial = 1121964779
+
+processed - 528+570+537 +478 +551 = 2664	
+success - 527 + 569 +537 +477 +550 = 2660
+timeouts - 0+0+0+1+1 = 2
+
+rx ending = 1990470905
+
+Difference = ‭868506126‬
+bytes per sec = ‭241,251.70
+
+8 scripts for 1 hour
+
+rx initial = 1990508091
+
+processed - 881	+ 716 + 1000 + 945 + 790 +809 + 820 = 5961
+success - 868 + 715 + 999 + 944 + 789 + 805 + 817 = 5937
+timeouts - 0 + 0+ 0+0+0 +1 +0 = 1
+
+rx ending - 2916430879
+
+Difference = ‭925922788‬
+bytes per sec = ‭257,200.77
+
